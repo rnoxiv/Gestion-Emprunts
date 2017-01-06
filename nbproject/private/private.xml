@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Filippo-TheAppExpert/Documents/NetBeansProjects/EmbeddedDatabaseInJava/src/tutorial/database/interfaces/ICommunicator.java</file>
+            <file>file:/C:/Users/Filippo-TheAppExpert/Documents/NetBeansProjects/EmbeddedDatabaseInJava/src/tutorial/database/DatabaseManager.java</file>
+            <file>file:/C:/Users/Filippo-TheAppExpert/Documents/NetBeansProjects/EmbeddedDatabaseInJava/src/tutorial/main/Main.java</file>
+            <file>file:/C:/Users/Filippo-TheAppExpert/Documents/NetBeansProjects/EmbeddedDatabaseInJava/src/tutorial/view/MainView.java</file>
+            <file>file:/C:/Users/Filippo-TheAppExpert/Documents/NetBeansProjects/EmbeddedDatabaseInJava/src/tutorial/model/Book.java</file>
+            <file>file:/C:/Users/Filippo-TheAppExpert/Documents/NetBeansProjects/EmbeddedDatabaseInJava/src/tutorial/database/interfaces/ICrud.java</file>
+            <file>file:/C:/Users/Filippo-TheAppExpert/Documents/NetBeansProjects/EmbeddedDatabaseInJava/src/tutorial/view/AddBook.java</file>
+            <file>file:/C:/Users/Filippo-TheAppExpert/Documents/NetBeansProjects/EmbeddedDatabaseInJava/src/tutorial/view/UpdateBook.java</file>
+        </group>
+    </open-files>
+</project-private>
